@@ -1,1 +1,2 @@
-this file contains string classes.
+this file contains string classes
+this file updated.
